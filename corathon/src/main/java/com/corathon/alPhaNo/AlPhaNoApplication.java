@@ -1,13 +1,13 @@
-package com.corathon.corathon;
+package com.corathon.alPhaNo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CorathonApplication {
+public class AlPhaNoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CorathonApplication.class, args);
+		SpringApplication.run(AlPhaNoApplication.class, args);
 	}
 
 }
